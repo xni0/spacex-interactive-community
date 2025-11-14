@@ -15,7 +15,7 @@ El objetivo es crear una aplicación web completa que sirva para:
 
 ## 🛠️ Stack Tecnológico
 
-La arquitectura se compone de un monolito principal con Next.js y un microservicio para la comunicación en tiempo real[cite: 120].
+La arquitectura se compone de un monolito principal con Next.js y un microservicio para la comunicación en tiempo real.
 
 * **Framework Principal (Frontend/Backend):** Next.js 
 * **Lenguaje Frontend:** React (con Tailwind CSS) 
